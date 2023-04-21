@@ -1,0 +1,20 @@
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_customers_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_customers_dataset.csv has (99441, 5) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_geolocation_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_geolocation_dataset.csv has (1000163, 5) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_items_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_items_dataset.csv has (112650, 7) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_payments_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_payments_dataset.csv has (103886, 5) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_reviews_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_reviews_dataset.csv has (99224, 7) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_orders_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_orders_dataset.csv has (99441, 8) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_products_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_products_dataset.csv has (32951, 9) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_sellers_dataset.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_sellers_dataset.csv has (3095, 4) [rows, columns]
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\product_category_name_translation.csv read SUCCESSFULLY
+2023-04-13 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\product_category_name_translation.csv has (71, 2) [rows, columns]
+2023-04-13 __main__ INFO Truth table created under pandas.DataFrame named 'modelling_df'
+2023-04-13 __main__ INFO Time Elapsed: {}

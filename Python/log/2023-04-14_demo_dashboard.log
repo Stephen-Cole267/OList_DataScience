@@ -1,0 +1,34 @@
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_customers_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_customers_dataset.csv has (99441, 5) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_geolocation_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_geolocation_dataset.csv has (1000163, 5) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_items_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_items_dataset.csv has (112650, 7) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_payments_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_payments_dataset.csv has (103886, 5) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_reviews_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_order_reviews_dataset.csv has (99224, 7) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_orders_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_orders_dataset.csv has (99441, 8) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_products_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_products_dataset.csv has (32951, 9) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_sellers_dataset.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\olist_sellers_dataset.csv has (3095, 4) [rows, columns]
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\product_category_name_translation.csv read SUCCESSFULLY
+2023-04-14 __main__ INFO Data file C:\Users\Stephen.Cole\Dropbox\My PC (XT-LPT-012)\Documents\Core Consultants\Internal Dashboard\Data\ECommerceDatasets\product_category_name_translation.csv has (71, 2) [rows, columns]
+2023-04-14 __main__ INFO Data files read, time elapsed: 0:00:02.080467
+2023-04-14 __main__ INFO Truth table created under pandas.DataFrame named 'modelling_df'
+2023-04-14 __main__ INFO Time Elapsed: {}
+2023-04-14 __main__ INFO Converted the following: ['price', 'freight_value', 'payment_sequential', 'payment_installments', 'payment_value', 'product_name_lenght', 'product_description_lenght', 'product_photos_qty', 'product_weight_g', 'product_length_cm', 'product_height_cm', 'product_width_cm', 'seller_zip_code_prefix'] into type Numerical
+2023-04-14 __main__ INFO Converted the following: ['review_creation_date', 'review_answer_timestamp', 'order_purchase_timestamp', 'order_approved_at', 'order_delivered_carrier_date', 'order_delivered_customer_date', 'order_estimated_delivery_date', 'shipping_limit_date'] into type Datetime
+2023-04-14 __main__ INFO Converted the following: ['review_comment_message', 'order_status', 'customer_city', 'payment_type', 'seller_city', 'product_category_name_english', 'customer_state_full', 'seller_state_full'] into type Object
+2023-04-14 __main__ INFO Time taken to convert datatypes: 0:00:00.244519
+2023-04-14 __main__ INFO Columns categorised into the following datatypes: 
+    ----- Numerical -----
+    ['review_score', 'price', 'freight_value', 'payment_sequential', 'payment_installments', 'payment_value', 'product_name_lenght', 'product_description_lenght', 'product_photos_qty', 'product_weight_g', 'product_length_cm', 'product_height_cm', 'product_width_cm', 'seller_zip_code_prefix']
+    ----- Boolean -----
+    [] 
+    ----- DateTime -----
+    ['review_creation_date', 'review_answer_timestamp', 'order_purchase_timestamp', 'order_approved_at', 'order_delivered_carrier_date', 'order_delivered_customer_date', 'order_estimated_delivery_date', 'shipping_limit_date'] 
+    ----- Object -----
+    ['review_comment_message', 'order_status', 'customer_city', 'payment_type', 'seller_city', 'product_category_name_english', 'customer_state_full', 'seller_state_full']
